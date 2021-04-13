@@ -1,0 +1,11 @@
+Steps to execute the code
+
+#1. Install the Node.js from the website
+#2. Check whether the Node.JS is installed in the system or not. by running following command in command prompt. "node -v"
+ If that shows the version number , then node is working properly.
+ #3. Create a JS file named , fibo.js". This contains the logic for prining fibonacii series
+ #4. Open command prompt , then run the following command . "node fibo.js"
+ 
+ And the result will ne displayed.
+ 
+ 
